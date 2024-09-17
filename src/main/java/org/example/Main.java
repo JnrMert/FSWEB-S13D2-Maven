@@ -22,8 +22,7 @@ public class Main {
         }
         return sum == number;
     }
-    public static boolean NumberToWords(int number2) {
-    }
+
 
 }
 
